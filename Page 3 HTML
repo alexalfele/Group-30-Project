@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Khaana Products</title>
+</head>
+<body>
+    <h1>Welcome to Khaana Products!</h1>
+    <p>We offer a wide range of products for the foodservice industry.</p>
+    
+    <h2>Kitchen Equipment</h2>
+    <ul>
+        <li>Commercial Ovens</li>
+        <li>Industrial Mixers</li>
+        <li>Refrigeration Units</li>
+    </ul>
+    
+    <h2>Restaurant Supplies</h2>
+    <ol>
+        <li>Tableware</li>
+        <li>Glassware</li>
+        <li>Cleaning Supplies</li>
+    </ol>
+    
+    <img src="path/to/your/image.jpg" alt="Khaana Products">
+    
+    <p>Contact us for more information: <a href="mailto:info@khaana.com">info@khaana.com</a></p>
+</body>
+</html>
+
+
+
+
+
+
+Current
